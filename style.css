@@ -53,7 +53,7 @@ body {
 
 @media (max-width: 480px) {
     .container {
-        width: 100vw;
+        width: 99vw;
     }
 
     .panel:nth-last-of-type(4),
